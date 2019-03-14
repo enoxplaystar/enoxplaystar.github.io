@@ -1,0 +1,75 @@
+101,BBC ONE,BBC One Classics,12:00,BBC One Classics,0,rtsp://127.0.0.1:8101/
+102,BBC TWO,BBC Two Classics,12:00,BBC Two Classics,0,rtsp://127.0.0.1:8102/
+103,ITV,ITV Classics,12:00,ITV Classics,0,rtsp://127.0.0.1:8103/
+104,Channel 4,Channel Four Classics,12:00,Channel Four Classics,0,rtsp://127.0.0.1:8104/
+105,Channel 5,Channel 5 Classics,12:00,Channel 5 Classics,0,rtsp://127.0.0.1:8105/
+106,Sky 1,Sky One Classics,12:00,Sky One Classics,0,rtsp://127.0.0.1:8106/
+109,UKGold,Classic Comedy,12:00,Classic Comedy,0,rtsp://127.0.0.1:8109/
+110,UKGold Classic,Classic Comedy,12:00,Classic Comedy,0,rtsp://127.0.0.1:8110/
+112,Living,No Data,12:00,No Data,0,rtsp://127.0.0.1:8112/
+115,Disney,Disney Kids,12:00,Disney Kids,0,rtsp://127.0.0.1:8115/
+118,Granada Plus,Favourites,12:00,Favourites,0,rtsp://127.0.0.1:8118/
+121,Family Channel,Game Show Fun,12:00,Game Show Fun,0,rtsp://127.0.0.1:8121/
+124,Bravo,,,,0,rtsp://127.0.0.1:8124/
+127,Paramount,,,,0,rtsp://127.0.0.1:8127/
+130,SciFi,,,,0,rtsp://127.0.0.1:8130/
+133,Discovery Home & Leisure,,,,3,rtsp://127.0.0.1:8133/
+136,Granada Breeze,,,,0,rtsp://127.0.0.1:8136/
+139,Granada Men & Motors,,,,0,rtsp://127.0.0.1:8139/
+142,Sky Soap,Soaps,12:00,Soaps,0,rtsp://127.0.0.1:8142/
+145,Sky Travel,,,,0,rtsp://127.0.0.1:8145/
+148,UK Style,Home Improvement,12:00,Home Improvement,0,rtsp://127.0.0.1:8148/
+151,UK Arena,Arts,12:00,Arts,0,rtsp://127.0.0.1:8151/
+160,BBC Choice,New Programmes,12:00,New Programmes,0,rtsp://127.0.0.1:8160/
+178,Tara,Irish Sports,12:00,Irish Sports,0,rtsp://127.0.0.1:8178/
+301,Sky Premier,Movies,12:00,Movies,0,rtsp://127.0.0.1:8301/
+302,Sky Premier 2,Movies,12:00,Movies,0,rtsp://127.0.0.1:8302/
+303,Sky Premier 3,Movies,12:00,Movies,0,rtsp://127.0.0.1:8303/
+304,Sky Premier 4,Movies,12:00,Movies,0,rtsp://127.0.0.1:8304/
+305,Sky Premier Widescreen,Movies,12:00,Movies,0,rtsp://127.0.0.1:8305/
+308,Sky Moviemax,Movies,12:00,Movies,0,rtsp://127.0.0.1:8308/
+309,Sky Moviemax 2,Movies,12:00,Movies,0,rtsp://127.0.0.1:8309/
+310,Sky Moviemax 3,Movies,12:00,Movies,0,rtsp://127.0.0.1:8310/
+311,Sky Moviemax 4,Movies,12:00,Movies,0,rtsp://127.0.0.1:8311/
+315,Sky Cinema,Movies,12:00,Movies,0,rtsp://127.0.0.1:8315/
+316,Sky Cinema 2,Movies,12:00,Movies,0,rtsp://127.0.0.1:8316/
+324,Film Four,Movies,12:00,Movies,0,rtsp://127.0.0.1:8324/
+401,Sky Sports 1,Sports,12:00,Sports,0,rtsp://127.0.0.1:8401/
+402,Sky Sports 2,Sports,12:00,Sports,0,rtsp://127.0.0.1:8402/
+403,Sky Sports 3,Sports,12:00,Sports,0,rtsp://127.0.0.1:8403/
+410,MUTV,Manchester United,12:00,Manchester United,0,rtsp://127.0.0.1:8410/
+413,Sky Sports News,Sports,12:00,Sports,0,rtsp://127.0.0.1:8413/
+416,The Racing Channel,,,,0,rtsp://127.0.0.1:8416/
+501,Sky News,News,12:00,News,0,rtsp://127.0.0.1:8501/
+504,Bloomberg,,,,0,rtsp://127.0.0.1:8504/
+507,BBC News 24,,,,0,rtsp://127.0.0.1:8507/
+508,BBC Parliament,,,,0,rtsp://127.0.0.1:8508/
+510,CNBC,,,,0,rtsp://127.0.0.1:8510/
+513,CNN,,,,0,rtsp://127.0.0.1:8513/
+531,Discovery,Facts,12:00,More Facts,0,rtsp://127.0.0.1:8531/
+532,Discovery +1,Later Facts,12:00,Also Facts,0,rtsp://127.0.0.1:8532/
+533,Discovery Travel & Adventure,,,,0,rtsp://127.0.0.1:8533/
+534,Discovery Civilisations,,,,0,rtsp://127.0.0.1:8534/
+535,Discovery SciTrek,,,,0,rtsp://127.0.0.1:8535/
+538,National Geographic,World Facts,12:00,Other Facts,0,rtsp://127.0.0.1:8538/
+541,History Channel,Historical Facts,12:00,Really Old Facts,0,rtsp://127.0.0.1:8541/
+544,UK Horizons,Stuff,12:00,More Stuff,0,rtsp://127.0.0.1:8544/
+547,The Computer Channel,Computers,12:00,Computers Again,0,rtsp://127.0.0.1:8547/
+550,Discovery Animal Planet,,,,0,rtsp://127.0.0.1:8550/
+604,Nickelodeon,Kids,12:00,Kids,0,rtsp://127.0.0.1:8604/
+607,Trouble,Kids,12:00,Also Kids,0,rtsp://127.0.0.1:8607/
+610,Fox Kids,Fun Stuff,12:00,More Fun,0,rtsp://127.0.0.1:8610/
+631,MTV,Not Music,12:00,Still Not Music,0,rtsp://127.0.0.1:8631/
+632,M2,No really - no music,12:00,Nope,0,rtsp://127.0.0.1:8632/
+638,VH1,Not MTV,12:00,Actual Music,0,rtsp://127.0.0.1:8638/
+641,The Box,,,,0,rtsp://127.0.0.1:8640/
+644,UK Play,Games,12:00,Probably Still Games,0,rtsp://127.0.0.1:8644/
+660,QVC,Shopping,12:00,More Shopping,0,rtsp://127.0.0.1:8660/
+673,Shop!,,,,0,rtsp://127.0.0.1:8673/
+688,TV Travel Shop,,,,0,rtsp://127.0.0.1:8688/
+970,Sky Information,Sky Information,12:00,Sky Information,0,rtsp://127.0.0.1:8999/
+977,TelevisionX,,,,0,rtsp://127.0.0.1:8977/
+980,After Midnight,,,,0,rtsp://127.0.0.1:8988/
+997,Sky Retail Information,,,,0,rtsp://127.0.0.1:8997/
+998,Sky Guide Information,,,,0,rtsp://127.0.0.1:8998/
+999,Sky Information,Sky Information,12:00,Sky Information,0,rtsp://127.0.0.1:8999/
