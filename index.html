@@ -156,11 +156,13 @@
 
 	function playVid() {
 
+		console.log("[HTML] Getting <video> elements...");		
 		for(var i = 0; i < elements.length; i++) {
-			console.log(elements[i].id);
+			console.log("Element " + i + ": " + elements[i].id);
 			elements[i].pause(); 
 			elements[i].play(); 
 		} 
+		console.log("[HTML] No more <video> elements.");
 
 	}
     </script>
