@@ -52,22 +52,6 @@
       }
     </style>
 
-    <script type='text/javascript'>
-
-	var elements = document.getElementsByTagName('video');
-
-	function playVid() {
-
-		for(var i = 0; i < elements.length; i++) {
-			console.log(elements[i].id);
-			elements[i].pause(); 
-			elements[i].play(); 
-		} 
-
-	}
-
-    </script>
-
   </head>
   <body>
     
@@ -184,6 +168,18 @@
 	    // Show a "Play" button so that user can start playback.
 
 	  });
+
+	var elements = document.getElementsByTagName('video');
+
+	function playVid() {
+
+		for(var i = 0; i < elements.length; i++) {
+			console.log(elements[i].id);
+			elements[i].pause(); 
+			elements[i].play(); 
+		} 
+
+	}
     </script>
     <script async type="text/javascript" src="multibox.js"></script>
   </body>
