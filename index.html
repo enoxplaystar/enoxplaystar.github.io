@@ -66,25 +66,6 @@
 
 	}
 
-	var promise = document.querySelector('video').play();
-
-	if (promise !== undefined) {
-
-	  promise.then(_ => {
-
-	    // Autoplay started!
-		console.log("Autoplaying...");
-
-	  }).catch(error => {
-
-	    // Autoplay was prevented.
-		console.log("AUTOPLAY FAILED");
-	    // Show a "Play" button so that user can start playback.
-
-	  });
-
-
-
     </script>
 
   </head>
@@ -186,6 +167,23 @@
           if (text) Module.printErr('[post-exception status] ' + text);
         };
       };
+
+	var promise = document.querySelector('video').play();
+
+	if (promise !== undefined) {
+
+	  promise.then(_ => {
+
+	    // Autoplay started!
+		console.log("Autoplaying...");
+
+	  }).catch(error => {
+
+	    // Autoplay was prevented.
+		console.log("AUTOPLAY FAILED");
+	    // Show a "Play" button so that user can start playback.
+
+	  });
     </script>
     <script async type="text/javascript" src="multibox.js"></script>
   </body>
