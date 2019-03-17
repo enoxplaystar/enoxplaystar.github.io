@@ -152,16 +152,17 @@
         };
       };
 
-	var elements = document.getElementsByTagName('video');
-
 	function playVid() {
 
 		console.log("[HTML] Getting <video> elements...");		
+
+		var elements = document.getElementsByTagName('video');
 		for(var i = 0; i < elements.length; i++) {
 			console.log("Element " + i + ": " + elements[i].id);
 			elements[i].pause(); 
 			elements[i].play(); 
 		} 
+
 		console.log("[HTML] No more <video> elements.");
 
 	}
