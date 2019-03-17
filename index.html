@@ -59,6 +59,8 @@
 	function playVid() {
 
 		for(var i = 0; i < elements.length; i++) {
+			console.log(elements[i].id);
+			elements[i].pause(); 
 			elements[i].play(); 
 		} 
 
@@ -154,7 +156,7 @@
         totalDependencies: 0,
         monitorRunDependencies: function(left) {
           this.totalDependencies = Math.max(this.totalDependencies, left);
-          Module.setStatus(left ? 'Preparing... (' + (this.totalDependencies-left) + '/' + this.totalDependencies + ')' : 'All downloads complete.');
+          Module.setStatus(left ? 'Preparing... (' + (this.totalDependencies-left) + '/' + this.totalDependencies + ')' : 'Please wait (nearly there)...');
         }
       };
       Module.setStatus('Please wait...');
