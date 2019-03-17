@@ -56,7 +56,7 @@
   <body>
     
     <div class="emscripten_border">
-      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" onclick="playVid()"></canvas>
       <br><br>
       <center><img src="tvlogo.png"></center>
     </div>
@@ -151,23 +151,6 @@
           if (text) Module.printErr('[post-exception status] ' + text);
         };
       };
-
-	var promise = document.querySelector('video').play();
-
-	if (promise !== undefined) {
-
-	  promise.then(_ => {
-
-	    // Autoplay started!
-		console.log("Autoplaying...");
-
-	  }).catch(error => {
-
-	    // Autoplay was prevented.
-		console.log("AUTOPLAY FAILED");
-	    // Show a "Play" button so that user can start playback.
-
-	  });
 
 	var elements = document.getElementsByTagName('video');
 
